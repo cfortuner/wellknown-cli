@@ -1,4 +1,5 @@
 # Wellknown CLI
+![Group 4](https://user-images.githubusercontent.com/5430709/230109957-932cd8c1-5f24-4aeb-86ed-39e4d4319b67.png)
 
 A tool to help you manage your AI Plugins!
 

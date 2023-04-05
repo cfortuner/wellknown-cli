@@ -1,5 +1,4 @@
-![favicon-32x32](https://user-images.githubusercontent.com/5430709/230110092-cc7bfcb5-4ae2-4698-b8e8-a94ede792d92.png)
-# Wellknown CLI
+![favicon-32x32](https://user-images.githubusercontent.com/5430709/230110092-cc7bfcb5-4ae2-4698-b8e8-a94ede792d92.png) # Wellknown CLI
 
 A tool to help you manage your AI Plugins!
 

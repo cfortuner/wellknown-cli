@@ -1,4 +1,8 @@
-![favicon-32x32](https://user-images.githubusercontent.com/5430709/230110092-cc7bfcb5-4ae2-4698-b8e8-a94ede792d92.png) # Wellknown CLI
+# Wellknown CLI
+
+[Wellknown.ai](https://wellknown.ai) is a registry of AI Plugins
+
+<img width="1401" alt="Screen Shot 2023-04-05 at 10 22 35 AM" src="https://user-images.githubusercontent.com/5430709/230110503-c7a3657d-0022-490a-8e84-13e60f0db3dc.png">
 
 A tool to help you manage your AI Plugins!
 
